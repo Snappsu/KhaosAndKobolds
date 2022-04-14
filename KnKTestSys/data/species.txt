@@ -1,0 +1,5 @@
+base0,unknown
+base1,hooman
+base2,kobold
+base3,lesser drakon
+base4,ulf
