@@ -11,6 +11,7 @@ namespace ConsoleApp1
         {
             List<Species> allSpecies = Species.loadSpecies();
             Character test = new Character();
+            test.setSpecies("base22", allSpecies);
             Console.WriteLine(test.getSpecies().getName());
             test.setSpecies("base2", allSpecies);
             Console.WriteLine(test.getSpecies().getName());
