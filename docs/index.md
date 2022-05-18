@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Khaos And Kobolds
 
-You can use the [editor on GitHub](https://github.com/Snappsu/KhaosAndKobolds/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Hey there! As you can see, the site is empty. It's will be flushed out as I do more work. See you then!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Directory
+- [About the Game](#about-the-game)
+- [About the World](#about-the-world)
+- [Game Development Tools](#game-development-tools)
 
-### Markdown
+## About the Game
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Back to Top](#khaos-and-kobolds)
 
-```markdown
-Syntax highlighted code block
+## About the World
 
-# Header 1
-## Header 2
-### Header 3
+[Back to Top](#khaos-and-kobolds)
 
-- Bulleted
-- List
+## Game Development Tools
 
-1. Numbered
-2. List
+Currently, these tools are only planned. Tools are subject to being added or removed.
 
-**Bold** and _Italic_ and `Code` text
+- [Character Creator]()
+- [Map Maker]()
+- [VN Planner]()
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Snappsu/KhaosAndKobolds/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Back to Top](#khaos-and-kobolds)
